@@ -1,0 +1,195 @@
+
+
+
+/*======================Home-----------------------------*/
+.home-panel-border{
+  /*border: 1px solid black;*/
+  /*text-align: center;*/
+  /*background-color:lightgrey;*/
+  /*color: gray;*/
+  /*font-weight: bolsd;*/
+  /*letter-spacing: 1px;*/
+  /*float: left;*/
+  /*padding-left: 200px;*/
+
+  height: 40px;
+  line-height: 40px;
+  font-size: 12px;
+  font-family: fantasy;
+  background-color: #e5e5e5;
+  color: black;
+  word-spacing:2px ;
+  margin: auto;
+  text-align: center;
+  
+}
+  .logo-row-border{
+    /*border: 1px s
+    olid black;*/
+  }
+.home-logo{
+  margin-top:px;
+  height: 110px;
+  float: left;
+  /*border: 1px solid black;*/
+}
+.home-logo2{
+  float: right;
+  height: 110px;
+  /*border: 1px solid black;*/
+}
+
+
+
+/*-HOME--------------Headermenu-----------------*/
+
+
+.headermenu_link{
+  color: white;
+  text-decoration: none;
+
+}
+.headermenu_link:hover{
+  color: white;
+  background-color: gray;
+}
+
+.headermenu_link-dropdown{
+  color: black;
+  text-decoration: none;
+
+}
+.headermenu_link-dropdown:hover{
+  color: black;
+  text-decoration: underline;
+
+}
+
+
+
+.Headermenu-row{
+  /*height: 40px;*/
+  line-height: 8px;
+  /*border: 1px solid black;*/
+  background-color:#e9463a;
+}
+.collasible-nav-dropdown{
+  line-height: 20px;
+}
+.aaa{
+  background-color: red;
+}
+
+
+/**/
+.home-about-minisory_heading{
+  font-family: monospace;
+  text-decoration: underline;
+  padding: 10px;
+  color: red;
+  
+}
+
+
+.home-content_img{
+  border: 1px ridge lightgray;
+}
+
+.home_rajnath_ajay{
+  color: red;
+  font-size: 12;
+}
+
+/**/
+
+.box-hover{
+  width: 100%;
+  height: 100%;
+  height: 55px;
+  line-height: 55px;
+  /*height: 40px;*/
+  font-size: 16px;
+  /*border: 1px groove dimgray;*/
+   border: 1px ridge lightgray;
+  text-align: center;
+  font-family: fantasy;
+
+}
+.box-hover:hover{
+  background-color: red;
+  color: white;
+  font-family: fantasy;
+}
+/*
+*/
+.home_list{
+  font-family: fantasy;
+  font-style: unset;
+  font-display: block;
+  /*font-variant: small-caps;*/
+  letter-spacing: 1px;
+}
+/**/.background_color_fluid{
+  background-color: gray;
+}
+
+.home_list-active{
+  background-color: gray;
+}
+/**/
+.video_image_color{
+  color: white;
+}
+.padding_col{
+  /*padding: 10px;*/
+}
+
+
+
+
+
+
+/*===============Caurosal============*/
+.caurosal-p{
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+  height: 100%;
+  /*font-size:18px ;
+    /*height: 35px;*/
+  /*line-height: 35px;*/
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+
+/*------------------About---------------------------------*/
+/*about mod*/
+.page_path_on-component{
+  font-size: 10px;
+  padding: 10px;
+}
+.page_path_on-component-color{
+  color: red;
+  text-decoration: none;
+  font-size: 10px;
+  padding: 10px;
+}
+.aboutmod-p{
+  text-align: justify;
+  line-height: 20px;
+  padding: 10px;
+  /*letter-spacing: 1px;*/
+  /*font-family: monospace;*/
+}
+
+
+
+/*===========Footer=========== */
+.Footer{
+  position: absolute;
+  /*bottom: 0;*/
+  text-align: center;
+  background: skyblue;
+  width: 100%;
+}
